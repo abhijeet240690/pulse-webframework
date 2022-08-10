@@ -1,0 +1,31 @@
+*.iml
+/.apt_generated/
+/.settings/
+.classpath
+.factorypath
+.project
+/.target/
+/bin/
+*.imp
+.vscode/
+/.vscode/
+/.tern-project
+\.settings/
+\.gradle/
+out/
+/.idea/
+.venv/
+report
+#logs/
+#venv/
+test_artefacts/test_evidence/
+test_data/datasheet/
+# test_data/source/
+# reports/
+*.pyc
+# ztemp/log_parsed_file.txt
+# logs/automation.log
+# utilities/__pycache__/
+# drivers/chromedriver.exe
+# logs/automation.log
+# db/pulse_dao/insert_datasheet_to_db.py
